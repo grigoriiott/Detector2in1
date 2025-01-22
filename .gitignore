@@ -1,0 +1,8 @@
+.idea/*
+*.pyc
+*__pycache__*
+*.onnx
+*.pb
+*.plan
+*.DS_Store
+
