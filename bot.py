@@ -7,7 +7,7 @@ import cv2
 from detector import ATSSHumanFaceAssocDetector, draw_associations
 
 
-TOKEN = '7772843983:AAGxCK2_xAzA77FO8Exe2qpAZIERoaPC4UQ'
+TOKEN = 
 bot = telebot.TeleBot(TOKEN)
 detector = ATSSHumanFaceAssocDetector(use_gpu=False, fp16=False)
 
